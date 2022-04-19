@@ -29,3 +29,9 @@ List hosting sites:
 ```bash
 firebase hosting:sites:list
 ```
+
+List projects:
+```bash
+firebase projects:list
+```
+
