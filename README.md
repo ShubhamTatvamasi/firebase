@@ -14,3 +14,8 @@ List the apps you have deployed:
 ```bash
 firebase apps:list
 ```
+
+List database instances:
+```bash
+firebase database:instances:list
+```
