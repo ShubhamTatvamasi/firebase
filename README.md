@@ -9,3 +9,8 @@ Login to your account:
 ```bash
 firebase login
 ```
+
+List the apps you have deployed:
+```bash
+firebase apps:list
+```
