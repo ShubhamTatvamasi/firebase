@@ -24,3 +24,8 @@ List hosting channels:
 ```bash
 firebase hosting:channel:list
 ```
+
+List hosting sites:
+```bash
+firebase hosting:sites:list
+```
