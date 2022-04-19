@@ -35,3 +35,8 @@ List projects:
 firebase projects:list
 ```
 
+Deploy project:
+```bash
+firebase deploy
+```
+
