@@ -19,3 +19,8 @@ List database instances:
 ```bash
 firebase database:instances:list
 ```
+
+List hosting channels:
+```bash
+firebase hosting:channel:list
+```
