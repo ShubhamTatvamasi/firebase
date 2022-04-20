@@ -34,11 +34,6 @@ List projects:
 ```bash
 firebase projects:list
 ```
-
-Deploy project:
-```bash
-firebase deploy
-```
 ---
 
 ### Prepare NodeJS app
@@ -48,8 +43,12 @@ Install packages:
 npm install
 ```
 
-Build the application:
+Build the app:
 ```bash
 npm run build
 ```
 
+Deploy the app:
+```bash
+firebase deploy
+```
