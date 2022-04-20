@@ -39,4 +39,16 @@ Deploy project:
 ```bash
 firebase deploy
 ```
+---
+
+### Prepare NodeJS app
+
+Install packages:
+```bash
+npm install
+```
+
+
+
+
 
