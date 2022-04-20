@@ -48,7 +48,8 @@ Install packages:
 npm install
 ```
 
-
-
-
+Build the application:
+```bash
+npm run build
+```
 
