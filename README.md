@@ -48,6 +48,11 @@ Build the app:
 npm run build
 ```
 
+Try running locally:
+```bash
+npm run serve
+```
+
 Deploy the app:
 ```bash
 firebase deploy
